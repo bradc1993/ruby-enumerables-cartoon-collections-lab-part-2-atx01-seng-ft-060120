@@ -32,4 +32,3 @@ def find_valid_calls(planeteer_calls)
 planeteer_calls.find |call| do
   call == valid_calls
 end
-end
